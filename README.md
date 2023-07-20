@@ -18,7 +18,7 @@ Welcome to the College Canteen App, a React Native mobile application that allow
 - 😋 **Order Food:** Browse the menu and place your food orders with ease.
 - 🚚 **Takeaway & Delivery:** Choose between takeaway or delivery options, which are fulfilled by college students.
 - 💥 **Deliver the Order:** If near Canteen, deliver foods to your fellow college mates and earn cashpoints.
-- 💵 **Cash Points:** Earn cash points with every order and delivery made, which can be redeemed on future orders, saving you money.
+- 💵 **Cash Points:** Earn cash points with every order and delivery made, which can be redeemed on future orders.
 - 👤 **User Accounts:** Create a personal account to manage your orders, favourites, and cash points.
 - ⌛ **Real-time Updates:** Receive instant updates on order status and delivery progress.
 - 💸 **Easy Payment:** Make secure and convenient payments within the app.
